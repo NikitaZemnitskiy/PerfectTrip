@@ -11,7 +11,6 @@ Spring Boot multi-module project for planning smart routes.
 ## Run locally
 
 ```bash
-export ORS_API_KEY=your_key_here
 ./mvnw -pl web spring-boot:run
 ```
 
